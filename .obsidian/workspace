@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "可执行目标文件的生成/程序的链接--心得.md",
+            "file": "xv6-arm/background.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 177.01041793823242
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可执行目标文件的生成/程序的链接--心得.md",
+                "file": "xv6-arm/background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可执行目标文件的生成/程序的链接--心得.md",
+                "file": "xv6-arm/background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可执行目标文件的生成/程序的链接--心得.md"
+                "file": "xv6-arm/background.md"
               }
             }
           }
@@ -128,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec254408c71f455c",
+  "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "可执行目标文件的生成/程序的链接--心得.md",
     "可执行目标文件的生成/笔记.md",
     "Pasted image 20220910214714.png.md",
-    "可执行目标文件的生成/程序的链接--心得.md",
     "写一个简单的虚拟机.md",
     "ITCS.md"
   ]
