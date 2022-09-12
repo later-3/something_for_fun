@@ -13,6 +13,9 @@
 - [Raspberry Pi Bare Bones - OSDev Wiki](https://wiki.osdev.org/Raspberry_Pi_Bare_Bones)
 - [bztsrc/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials (github.com)](https://github.com/bztsrc/raspi3-tutorial)
 - [s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi (github.com)](https://github.com/s-matyukevich/raspberry-pi-os)
+- [FDUCSLG/OS-2021Fall-dev (github.com)](https://github.com/FDUCSLG/OS-2021Fall-dev/)
+- [hakula139/xv6-armv8: [WIP] Xv6, a simple Unix-like teaching operating system, re-implemented for ARMv8 (AArch64), written in C (github.com)](https://github.com/hakula139/xv6-armv8)
+
 
 # 我的项目仓库
 [later-3/later-raspi-os (github.com)](https://github.com/later-3/later-raspi-os)
