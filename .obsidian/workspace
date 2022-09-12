@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "42a8bfae7c37ef37",
+    "type": "split",
+    "children": [
+      {
+        "id": "de12754b22ad841a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "写一个简单的虚拟机.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce63066aaf314f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "14555eb3058125f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec254408c71f455c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "866a8de5640215f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1292531d63f1c49a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309
+  },
+  "right": {
+    "id": "9a8e85d13f9e6de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b8228ed68abaa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1148159512fb28f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "写一个简单的虚拟机.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21373fe0eeaf90d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "写一个简单的虚拟机.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6055d7b93409e1be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09d90d86bd000306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "写一个简单的虚拟机.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de12754b22ad841a",
+  "lastOpenFiles": [
+    "ITCS.md",
+    "写一个简单的虚拟机.md"
+  ]
+}
