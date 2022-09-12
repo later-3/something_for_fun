@@ -1,4 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Yin and Yang"
+  "cssTheme": "Yin and Yang",
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "baseFontSize": 10
 }
