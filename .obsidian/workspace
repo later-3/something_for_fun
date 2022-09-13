@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "xv6-arm/background.md",
+            "file": "可执行目标文件的生成/链接脚本.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 177.01041793823242
+    "width": 205
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xv6-arm/background.md",
+                "file": "可执行目标文件的生成/链接脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xv6-arm/background.md",
+                "file": "可执行目标文件的生成/链接脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xv6-arm/background.md"
+                "file": "可执行目标文件的生成/链接脚本.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "xv6-arm/background.md",
     "可执行目标文件的生成/程序的链接--心得.md",
     "可执行目标文件的生成/笔记.md",
     "Pasted image 20220910214714.png.md",
