@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "可执行目标文件的生成/链接脚本.md",
+            "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 295.0104179382324
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可执行目标文件的生成/链接脚本.md",
+                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可执行目标文件的生成/链接脚本.md",
+                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可执行目标文件的生成/链接脚本.md"
+                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md"
               }
             }
           }
@@ -130,13 +130,14 @@
   },
   "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "CSAPP/第一部分 程序结构和执行/第二章：信息表示和处理/2.4 浮点数.md",
     "可执行目标文件的生成/链接脚本.md",
     "可执行目标文件的生成/笔记.md",
     "Pasted image 20220910200119.png.md",
     "xv6-arm/background.md",
     "可执行目标文件的生成/程序的链接--心得.md",
     "Pasted image 20220910214714.png.md",
-    "写一个简单的虚拟机.md",
+    "LC-3/写一个简单的虚拟机.md",
     "ITCS.md"
   ]
 }
