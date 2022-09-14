@@ -130,9 +130,11 @@
   },
   "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "可执行目标文件的生成/链接脚本.md",
+    "可执行目标文件的生成/笔记.md",
+    "Pasted image 20220910200119.png.md",
     "xv6-arm/background.md",
     "可执行目标文件的生成/程序的链接--心得.md",
-    "可执行目标文件的生成/笔记.md",
     "Pasted image 20220910214714.png.md",
     "写一个简单的虚拟机.md",
     "ITCS.md"
