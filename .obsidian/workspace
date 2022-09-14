@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
+            "file": "xv6-arm/基于 Shellcode 和加密技术的 Linux 上 ARM64 AArch64汇编指南/0. 介绍.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.0104179382324
+    "width": 251.01041793823242
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
+                "file": "xv6-arm/基于 Shellcode 和加密技术的 Linux 上 ARM64 AArch64汇编指南/0. 介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
+                "file": "xv6-arm/基于 Shellcode 和加密技术的 Linux 上 ARM64 AArch64汇编指南/0. 介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md"
+                "file": "xv6-arm/基于 Shellcode 和加密技术的 Linux 上 ARM64 AArch64汇编指南/0. 介绍.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
     "CSAPP/第一部分 程序结构和执行/第二章：信息表示和处理/2.4 浮点数.md",
     "可执行目标文件的生成/链接脚本.md",
     "可执行目标文件的生成/笔记.md",
