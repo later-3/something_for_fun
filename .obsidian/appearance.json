@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "cssTheme": "Yin and Yang",
   "monospaceFontFamily": "JetBrainsMono NF",
-  "baseFontSize": 10
+  "baseFontSize": 10,
+  "textFontFamily": "JetBrains Mono,AR PL UKai CN"
 }
