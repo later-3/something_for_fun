@@ -31,3 +31,46 @@ int $0x80
 那ptrace到底是如何发挥作用的呢？在执行系统调用前，内核会检查进程是否正在被跟踪。如果是，内核暂停进程，然后把控制权交给跟踪进程，这样就可以执行和修改被跟踪进程的寄存器了。
 
 让我们用一个例子来更清楚的看看进程是如何工作的：
+```c
+#include <sys/ptrace.h>
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <unistd.h>
+#include <linux/user.h>   /* For constants
+                                   ORIG_EAX etc */
+int main()
+{   pid_t child;
+    long orig_eax;
+    child = fork();
+    if(child == 0) {
+        ptrace(PTRACE_TRACEME, 0, NULL, NULL);
+        execl("/bin/ls", "ls", NULL);
+    }
+    else {
+        wait(NULL);
+        orig_eax = ptrace(PTRACE_PEEKUSER,
+                          child, 4 * ORIG_EAX,
+                          NULL);
+        printf("The child made a "
+               "system call %ld\n", orig_eax);
+        ptrace(PTRACE_CONT, child, NULL, NULL);
+    }
+    return 0;
+}
+```
+
+gcc编译后运行：
+```shell
+❯ ./a.out                   
+The child made a system call 59
+100ask               initrd64.ext4      qemu-net.txt                        
+100ask_imx6ull-qemu  linux              rootfs.img
+a.out                linux-5.18.10      something_for_fun
+busybox-1.35.0       ptrace.c           start.sh
+busybox-arm          qemu               ubuntu-18.04_imx6ul_qemu_system
+initrd               qemu-7.1.0         up.sh
+initrd128.ext4       qemu-7.1.0.tar.xz  versatile.sh
+```
+
+
+
