@@ -3,5 +3,6 @@
   "cssTheme": "Yin and Yang",
   "monospaceFontFamily": "JetBrainsMono NF",
   "baseFontSize": 10,
-  "textFontFamily": "JetBrains Mono,AR PL UKai CN"
+  "textFontFamily": "JetBrains Mono,AR PL UKai CN",
+  "accentColor": ""
 }
