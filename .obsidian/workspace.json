@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e8e7f5ed77d815b",
+            "id": "2a55c2c1728598a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.0141067504883
+    "width": 259.0141067504883,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -136,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e8e7f5ed77d815b",
+  "active": "2a55c2c1728598a6",
   "lastOpenFiles": [
-    "LC-3/写一个简单的虚拟机.md",
+    "Pasted image 20221128213737.png",
     "architecture/arm/assembly/arm汇编语言之函数调用.md",
+    "LC-3/写一个简单的虚拟机.md",
     "Pasted image 20221009213841.png",
     "ysyx/预学习阶段/目标.md",
     "ysyx/预学习阶段/\"如何提问\"读后感.md",
     "ysyx/预学习阶段/Linux系统按照和基本使用.md",
     "qemu/nand/nand flash.md",
     "ysyx/预学习阶段/PA0/Getting Source Code for PAs.md",
-    "README.md",
-    "Linux/debug/ptrace.md"
+    "README.md"
   ]
 }

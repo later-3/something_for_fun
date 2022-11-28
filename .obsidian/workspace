@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "qemu/nand/nand flash.md",
+            "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.01410675048828
+    "width": 234.01410675048828,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/nand/nand flash.md",
+                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/nand/nand flash.md",
+                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/nand/nand flash.md"
+                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md"
               }
             }
           }
@@ -128,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec254408c71f455c",
+  "active": "de12754b22ad841a",
   "lastOpenFiles": [
+    "qemu/nand/nand flash.md",
     "ysyx/预学习阶段/PA0/Getting Source Code for PAs.md",
     "ysyx/预学习阶段/目标.md",
     "ysyx/预学习阶段/Linux系统按照和基本使用.md",
@@ -138,7 +140,6 @@
     "Linux/debug/ptrace.md",
     "xv6-arm/基于 Shellcode 和加密技术的 Linux 上 ARM64 AArch64汇编指南/0. 介绍.md",
     "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
-    "CSAPP/第一部分 程序结构和执行/第二章：信息表示和处理/2.4 浮点数.md",
-    "可执行目标文件的生成/链接脚本.md"
+    "CSAPP/第一部分 程序结构和执行/第二章：信息表示和处理/2.4 浮点数.md"
   ]
 }

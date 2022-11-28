@@ -55,8 +55,74 @@ c语言的函数被翻译成汇编是什么样的 ==> The ABI for ARM 64-bit Arc
 ```
 
 ### 调用和返回的尝试解决方案
-- 使用跳转指令
-![](https://raw.githubusercontent.com/later-3/blog-img/main/20221106171631.png)
+- 方案一：使用跳转指令
+
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127145032.png)
+使用jmp指令跳转到另一个函数去。但是这样会有一个问题，因为一个函数可能被多个函数调用，所以return的时候就出问题了，不知道要返回到哪个地址：
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127150028.png)
+
+- 方案二：使用寄存器保存返回地址
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127151207.png)
+先将下一条指令的地址放到寄存器中，然后在被调用的函数中使用jmp返回调用函数中。
+但这样会有一个问题是：不能处理嵌套调用的场景，也就是A调用B，然后B再调用C。
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127151933.png)
+
+### IA-32解决方案：使用栈
+> 可能需要保存很多返回地址
+- 嵌套调用的深度是不能提前确定的
+- 只要函数调用的关系还在，返回地址就应该被保存下来，调用关系结束后再丢弃
+
+> 保存地址的顺序应和调用时的顺序相反
+- 例如：P调用Q，Q再调用R，应该从R返回到Q，最后从Q返回P
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127153445.png)
+
+> 后进先出的数据结构: 栈
+- 调用者将返回地址放到栈中
+- 被调用者将返回地址从栈中弹出
+
+> IA 32解决方案：在调用和返回时使用栈
+
+### 调用的实现
+- ESP：栈指针寄存器，指向栈的顶部
+- 栈指针的操作指令：push，pop，但也可以用sub、add指令操作
+![|400](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221127155956.png)
+- EIP：类似pc，指向下一条要执行的指令的地址
+![|500](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128214217.png)
+
+注：并不能直接访问ip，这里只是举例
+
+call指令调用前后，栈内容对比：
+![|400](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128214620.png)
+- ret指令，会将old eip弹出栈，并赋值给eip，使eip指向刚刚调用的函数的下一条指令
+
+
+## 问题二：参数传递
+> 调用者如何传递参数给被调用函数？
+
+![|400](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128220712.png)
+
+f函数调用add3，三个参数是如何传递过去的
+
+>  尝试解决的方案：使用寄存器
+
+- 问题：不能处理嵌套调用，函数再调用函数时，寄存器里面的值会被覆盖
+- 还有如果传递超过4个字节的参数怎么办，也就是超过寄存器的宽度
+
+### IA-32的解决方案：使用栈
+
+- 调用者在执行call指令之前，将参数压入栈中
+- 注意是反序压入，就是先压入最后一个参数，然后是倒数第二个.....
+![|300](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128223343.png)
+- 被调用者使用使用esp去取参数
+
+![|300](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128223856.png)
+
+### IA-32 参数传递的例子
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221128224055.png)
+
+
+### EBP: 栈基址寄存器
+
 
 
 
