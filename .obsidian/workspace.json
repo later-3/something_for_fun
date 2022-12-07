@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a55c2c1728598a6",
+            "id": "cc38abbb75a44f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
+                "file": "From the Transistor/targets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93ce26a8bab503cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Transistor/logsim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.0141067504883,
+    "width": 200.50403594970703,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
+                "file": "From the Transistor/logsim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md",
+                "file": "From the Transistor/logsim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "architecture/arm/assembly/arm汇编语言之函数调用.md"
+                "file": "From the Transistor/logsim.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a55c2c1728598a6",
+  "active": "93ce26a8bab503cb",
   "lastOpenFiles": [
-    "Pasted image 20221128213737.png",
+    "From the Transistor/logsim/Untitled.md",
+    "From the Transistor/8位二进制CPU/Untitled.md",
+    "From the Transistor/targets.md",
+    "Linux/debug/Untitled.md",
     "architecture/arm/assembly/arm汇编语言之函数调用.md",
+    "Pasted image 20221128213737.png",
     "LC-3/写一个简单的虚拟机.md",
     "Pasted image 20221009213841.png",
     "ysyx/预学习阶段/目标.md",
-    "ysyx/预学习阶段/\"如何提问\"读后感.md",
-    "ysyx/预学习阶段/Linux系统按照和基本使用.md",
-    "qemu/nand/nand flash.md",
-    "ysyx/预学习阶段/PA0/Getting Source Code for PAs.md",
-    "README.md"
+    "ysyx/预学习阶段/\"如何提问\"读后感.md"
   ]
 }

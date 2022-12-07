@@ -1,0 +1,9 @@
+- 数字逻辑
+- Verilog
+- veriltor
+- FPGA
+- 编码
+- 穿越计算机的迷雾
+- cpu自制入门
+- 自己动手写CPU
+- 手把手教你设计RISC-V
