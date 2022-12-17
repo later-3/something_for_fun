@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13cecd187c147e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/nand flash/1. 基本原理及硬件操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50403594970703,
-    "collapsed": true
+    "width": 200.50403594970703
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Transistor/logsim.md",
+                "file": "Linux/nand flash/1. 基本原理及硬件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Transistor/logsim.md",
+                "file": "Linux/nand flash/1. 基本原理及硬件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Transistor/logsim.md"
+                "file": "Linux/nand flash/1. 基本原理及硬件操作.md"
               }
             }
           }
@@ -150,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93ce26a8bab503cb",
+  "active": "13cecd187c147e73",
   "lastOpenFiles": [
+    "From the Transistor/logsim.md",
+    "From the Transistor/targets.md",
     "From the Transistor/logsim/Untitled.md",
     "From the Transistor/8位二进制CPU/Untitled.md",
-    "From the Transistor/targets.md",
     "Linux/debug/Untitled.md",
     "architecture/arm/assembly/arm汇编语言之函数调用.md",
     "Pasted image 20221128213737.png",
     "LC-3/写一个简单的虚拟机.md",
     "Pasted image 20221009213841.png",
-    "ysyx/预学习阶段/目标.md",
-    "ysyx/预学习阶段/\"如何提问\"读后感.md"
+    "ysyx/预学习阶段/目标.md"
   ]
 }
