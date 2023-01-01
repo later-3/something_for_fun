@@ -29,3 +29,23 @@ logsim可以根据真值表、逻辑表达式生成电路，但只能是组合�
 当上面引脚输出为1，下面引脚没又输出，整个与非门的输出为1，然后1又传递到下面引脚为1，整个与非门两个输入1，与非门输出为0，然后0传递到下面引脚，整个与非门输出又为1....
 
 
+# 常用组件库
+![|150](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221225180247.png)
+
+- splitter 分离器
+- pin 引脚
+- probe 探测器
+- tunnel 隧道
+- pull resistor 上/下拉电阻
+- clock 始终
+- constant 常量
+- power 电源
+- ground 接地
+- transistor 三极管
+- transmission gate 传输门
+- bit extender 位扩展器
+
+## 组件通用属性
+![|400](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221225185907.png)
+
+![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20221225185907.png)
