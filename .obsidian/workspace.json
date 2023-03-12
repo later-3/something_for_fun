@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Transistor/targets.md",
+                "file": "ysyx/预学习阶段/目标.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32e8f5680939215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Transistor/logisim/计算机硬件系统设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf36dee94d5e074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Transistor/编码/第一章 至亲密友.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc501e3e35ec3df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Transistor/outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "From the Transistor/outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "From the Transistor/outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "From the Transistor/outline.md"
+              }
             }
           }
         ]
@@ -165,15 +205,15 @@
   },
   "active": "ec254408c71f455c",
   "lastOpenFiles": [
-    "From the Transistor/logsim.md",
-    "Untitled.md",
-    "mind.md",
-    "LC-3/写一个简单的虚拟机.pdf",
-    "LC-3/写一个简单的虚拟机.md",
-    "xv6-arm/background.md",
-    "Linux/nand flash/1. 基本原理及硬件操作.md",
-    "From the Transistor/targets.md",
-    "From the Transistor/logsim/Untitled.md",
-    "From the Transistor/8位二进制CPU/Untitled.md"
+    "LC-3/计算机系统介绍/2.位,数据类型,和操作/2.7 其他操作.md",
+    "From the Transistor/outline.md",
+    "From the Transistor/编码/第一章 至亲密友.md",
+    "From the Transistor/logisim/计算机硬件系统设计.md",
+    "ysyx/预学习阶段/Untitled.md",
+    "ysyx/预学习阶段/目标.md",
+    "ysyx/预学习阶段/如何提问 读后感.md",
+    "ysyx/预学习阶段/Linux系统按照和基本使用.md",
+    "ysyx/预学习阶段/PA0/Getting Source Code for PAs.md",
+    "From the Transistor/targets.md"
   ]
 }
