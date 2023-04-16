@@ -1,8 +1,8 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Mado Miniflow",
   "monospaceFontFamily": "JetBrainsMono NF",
-  "baseFontSize": 16,
+  "baseFontSize": 23,
   "textFontFamily": "JetBrains Mono,AR PL UKai CN",
   "accentColor": ""
 }

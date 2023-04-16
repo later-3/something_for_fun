@@ -56,3 +56,6 @@ https://skilldrick.github.io/easy6502/
 https://www.copetti.org/writings/consoles/nes/
 https://famicom.party/book/04-hardwareoverview/
 https://taywee.github.io/NerdyNights/nerdynights/nesarchitecture.html
+
+
+
