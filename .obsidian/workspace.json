@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "qemu/nes/PPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde6b22527399ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qemu/nes/PPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.00152587890625
+    "width": 291.00152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "qemu/nes/PPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "qemu/nes/PPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md"
+                "file": "qemu/nes/PPU.md"
               }
             }
           }
@@ -242,9 +255,10 @@
   },
   "active": "e8eb41e5108fa0fe",
   "lastOpenFiles": [
-    "qemu/nes/litenes/qemu-nes.md",
     "nes/nes.md",
+    "qemu/nes/PPU.md",
     "qemu/nes/6502/cpu info.md",
+    "qemu/nes/litenes/qemu-nes.md",
     "qemu/nes/nesdev.org/Glossary.md",
     "qemu/nes/nesdev.org/nes hardware.md",
     "qemu/nes/6502",
