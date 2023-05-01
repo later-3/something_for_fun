@@ -14,5 +14,3 @@ PPU有一个内部的数据总线，用于和cpu交互。这种总线在 Visual 
 
 # PPU power up state
 
-
-
