@@ -218,9 +218,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c41773147e1ba8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Transistor/note/1. 硬件/Project 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -265,12 +277,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "dd33b90633788e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -286,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/nes/chatgpt-answer.md",
+                "file": "From the Transistor/note/1. 硬件/Project 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/nes/chatgpt-answer.md",
+                "file": "From the Transistor/note/1. 硬件/Project 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/nes/chatgpt-answer.md"
+                "file": "From the Transistor/note/1. 硬件/Project 1.md"
               }
             }
           }
@@ -348,8 +369,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60a11e58c03f74da",
+  "active": "c41773147e1ba8cb",
   "lastOpenFiles": [
+    "From the Transistor/note/1. 硬件/1.6 项目.md",
+    "From the Transistor/note/1. 硬件/Project 1.md",
+    "From the Transistor/note/1. 硬件/1.5.md",
+    "From the Transistor/note/1. 硬件/1.7 观点Perspective.md",
+    "From the Transistor/note/1. 硬件",
+    "From the Transistor/note",
     "qemu/TCG/Documentation_TCG.md",
     "qemu/TCG/Decodetree Specification.md",
     "qemu/TCG/Documentation-TCG-frontend-ops.md",
@@ -372,8 +399,6 @@
     "nes/island.nes",
     "nes",
     "Operating Systems - Three Easy Pieces.pdf",
-    "LC-3/Introduction_To_Computing_Systems_From_Bits_& Gates_To_C⁄C++&Beyond,ThirdEdition.pdf",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles.pdf",
     "qemu/nes/nesdev.org/file format/INES.md",
     "qemu/nes/nesdev.org/file format/nes 2.0.md",
     "qemu/nes/nesdev.org/mapper.md",
@@ -381,10 +406,6 @@
     "可执行目标文件的生成/链接脚本.md",
     "ysyx/预学习阶段/目标.md",
     "ysyx/预学习阶段/如何提问 读后感.md",
-    "From the Transistor/targets.md",
-    "From the Transistor/logsim.md",
-    "Untitled.md",
-    "mind.md",
-    "LC-3/写一个简单的虚拟机.md"
+    "From the Transistor/targets.md"
   ]
 }
