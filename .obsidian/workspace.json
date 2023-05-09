@@ -371,6 +371,11 @@
   },
   "active": "c41773147e1ba8cb",
   "lastOpenFiles": [
+    "qemu/TCG/AVR/调试avr.md",
+    "qemu/TCG/AVR/指令解析.md",
+    "qemu/TCG/AVR/编译.md",
+    "qemu/TCG/AVR/cpu architecture.md",
+    "qemu/TCG/AVR",
     "From the Transistor/note/1. 硬件/1.6 项目.md",
     "From the Transistor/note/1. 硬件/Project 1.md",
     "From the Transistor/note/1. 硬件/1.5.md",
@@ -398,14 +403,9 @@
     "nes/launch.json",
     "nes/island.nes",
     "nes",
-    "Operating Systems - Three Easy Pieces.pdf",
     "qemu/nes/nesdev.org/file format/INES.md",
     "qemu/nes/nesdev.org/file format/nes 2.0.md",
     "qemu/nes/nesdev.org/mapper.md",
-    "可执行目标文件的生成/程序的链接--心得.md",
-    "可执行目标文件的生成/链接脚本.md",
-    "ysyx/预学习阶段/目标.md",
-    "ysyx/预学习阶段/如何提问 读后感.md",
-    "From the Transistor/targets.md"
+    "可执行目标文件的生成/程序的链接--心得.md"
   ]
 }
