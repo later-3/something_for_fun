@@ -4,235 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5131449d4bd6ef1e",
+        "id": "91842ea647c31938",
         "type": "tabs",
         "children": [
           {
-            "id": "cc38abbb75a44f37",
+            "id": "08d979dd82978374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可执行目标文件的生成/笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce2e30f81ff34102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/litenes/qemu-nes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91fea587c85db13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/nesdev.org/file format/nes 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73b037caff59e449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/litenes/qemu-nes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1097d18debc1eba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/nesdev.org/file format/INES.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "669babbc2905d982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nes/nes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8eb41e5108fa0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/PPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bde6b22527399ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/PPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93ce26a8bab503cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b192aeea164f70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bacbd832f67f537b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/chatgpt-answer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c6cf374e09e223b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/TCG/Documentation_TCG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f95045900911cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/TCG/Translator Interals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67f8c73d795b7d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/TCG/Translator Interals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6fd00e430c69ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/TCG/TCG Intermediate Representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7716532de528f7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/TCG/Documentation_TCG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29607130afc6d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/chatgpt-answer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a11e58c03f74da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qemu/nes/chatgpt-answer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c41773147e1ba8cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "From the Transistor/note/1. 硬件/Project 1.md",
+                "file": "qemu/TCG/AVR/cpu architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 274.0040512084961
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -307,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Transistor/note/1. 硬件/Project 1.md",
+                "file": "qemu/TCG/AVR/cpu architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Transistor/note/1. 硬件/Project 1.md",
+                "file": "qemu/TCG/AVR/cpu architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Transistor/note/1. 硬件/Project 1.md"
+                "file": "qemu/TCG/AVR/cpu architecture.md"
               }
             }
           }
@@ -369,21 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c41773147e1ba8cb",
+  "active": "08d979dd82978374",
   "lastOpenFiles": [
-    "qemu/TCG/AVR/调试avr.md",
     "qemu/TCG/AVR/指令解析.md",
+    "qemu/TCG/AVR/调试avr.md",
     "qemu/TCG/AVR/编译.md",
+    "qemu/TCG/from no pwn no fun.md",
     "qemu/TCG/AVR/cpu architecture.md",
+    "From the Transistor/note/1. 硬件/Project 1.md",
+    "qemu/TCG/Documentation_TCG.md",
+    "qemu/TCG/Decodetree Specification.md",
+    "nes/nes.md",
     "qemu/TCG/AVR",
     "From the Transistor/note/1. 硬件/1.6 项目.md",
-    "From the Transistor/note/1. 硬件/Project 1.md",
     "From the Transistor/note/1. 硬件/1.5.md",
     "From the Transistor/note/1. 硬件/1.7 观点Perspective.md",
     "From the Transistor/note/1. 硬件",
     "From the Transistor/note",
-    "qemu/TCG/Documentation_TCG.md",
-    "qemu/TCG/Decodetree Specification.md",
     "qemu/TCG/Documentation-TCG-frontend-ops.md",
     "qemu/TCG/TCG Emulation.md",
     "qemu/TCG/TCG Intermediate Representation.md",
@@ -392,7 +180,6 @@
     "qemu/nes/chatgpt-answer.md",
     "qemu/TCG",
     "qemu/nes/PPU.md",
-    "nes/nes.md",
     "qemu/nes/6502/cpu info.md",
     "qemu/nes/litenes/qemu-nes.md",
     "qemu/nes/nesdev.org/Glossary.md",
@@ -405,7 +192,6 @@
     "nes",
     "qemu/nes/nesdev.org/file format/INES.md",
     "qemu/nes/nesdev.org/file format/nes 2.0.md",
-    "qemu/nes/nesdev.org/mapper.md",
-    "可执行目标文件的生成/程序的链接--心得.md"
+    "qemu/nes/nesdev.org/mapper.md"
   ]
 }
