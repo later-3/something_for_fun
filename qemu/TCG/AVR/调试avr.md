@@ -54,3 +54,10 @@ n
 ```
 
 ![](https://raw.githubusercontent.com/later-3/img_picgo/main/img/20230506224935.png)
+
+ow10009310374@bkle.uk
+# TCG 钩子函数调试
+
+## tlb_fill
+[qemu tlb实现分析 | Sherlock's blog (wangzhou.github.io)](https://wangzhou.github.io/qemu-tlb%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90/)
+

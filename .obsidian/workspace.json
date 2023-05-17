@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qemu/TCG/AVR/cpu architecture.md",
+                "file": "qemu/TCG/AVR/调试avr.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/TCG/AVR/cpu architecture.md",
+                "file": "qemu/TCG/AVR/调试avr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/TCG/AVR/cpu architecture.md",
+                "file": "qemu/TCG/AVR/调试avr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/TCG/AVR/cpu architecture.md"
+                "file": "qemu/TCG/AVR/调试avr.md"
               }
             }
           }
@@ -156,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec254408c71f455c",
+  "active": "08d979dd82978374",
   "lastOpenFiles": [
+    "qemu/TCG/AVR/编译.md",
+    "qemu/TCG/AVR/cpu architecture.md",
     "qemu/TCG/AVR/指令解析.md",
     "qemu/TCG/AVR/调试avr.md",
-    "qemu/TCG/AVR/编译.md",
     "qemu/TCG/from no pwn no fun.md",
-    "qemu/TCG/AVR/cpu architecture.md",
     "From the Transistor/note/1. 硬件/Project 1.md",
     "qemu/TCG/Documentation_TCG.md",
     "qemu/TCG/Decodetree Specification.md",

@@ -134,5 +134,9 @@ void avr_cpu_tcg_init(void)
     cpu_Cf = tcg_global_mem_new_i32(cpu_env, AVR_REG_OFFS(sregC), "Cf");
 ```
 
+在 [Documentation/TCG/frontend-ops - QEMU](https://wiki.qemu.org/Documentation/TCG/frontend-ops) 有介绍到，模拟的cpu的绝大多数核心寄存器应该有一个对应的TCG 寄存器。
 
+> Declare a named TCG register
+> TCGv reg = tcg_global_mem_new(TCG_AREG0, offsetof(CPUState, reg), "reg"); 
 
+这样创建了对应的tcg寄存器。
