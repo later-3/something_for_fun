@@ -7,8 +7,9 @@
 ## 可编程存储内存
 MCU是8位的，但是每条指令占一个或两个16bit字。程序内存的大小通常用设备本身的命名来表示(例如，ATmega64x 行有64 KB 的闪存，而 ATmega32x 行有32 KB)。
 
-qemu里面的machine是 mega2560 ，在初始化函数中，能找到：
+qemu里面的machine是 mega2560 ，在初始化函数中，
 
+下面是qemu加载avr的elf文件路径梳理：
 ```c
 qemu-options.hx
 DEF("bios", HAS_ARG, QEMU_OPTION_bios, \
@@ -58,4 +59,80 @@ Disassembly of section .text:
       18:	0c 94 a9 00 	jmp	0x152	; 0x152 <__bad_interrupt>
       1c:	0c 94 a9 00 	jmp	0x152	; 0x152 <__bad_interrupt>
 ```
+
+# AVR Core
+为了最大化性能和并行度，AVR采用了哈弗结构，具有独立的存储器和用于程序和数据的总线。程序内存中的指令使用单级流水线执行。当一条指令正在执行时，下一条指令将从程序内存中预取。这个概念使指令能够在每个时钟周期中执行。内置的程序内存是可编程的闪存。
+
+# 寄存器
+有32个8bit的通用寄存器，在一个时钟周期访问。32个寄存器中的6个可以用作3个16位间接地址寄存器指针，用于数据空间寻址，从而实现高效的地址计算。其中一个地址指针还可以用作 Flash 程序内存中查找表的地址指针。这些添加的函数寄存器是16位的 X-、 Y-和 Z-寄存器。还有pc、stack pointer、status register、instruction register
+
+# 算术逻辑单元
+ALU支持数学和逻辑操作，这种操作是在寄存器之间或者常量和寄存器之间。在算术运算后，状态寄存器会被更新，去反应操作的结果。程序流程由条件和无条件跳转和调用指令提供，能够直接寻址整个地址空间。大多数 AVR 指令只有一个16位字格式。每个程序内存地址都包含一个16位或32位指令。
+
+# 内存
+AVR 体系结构中的内存空间都是线性和规则的内存映射。程序 Flash 存储空间分为两个部分，引导程序部分和应用程序部分。这两个部分都有专门用于写和读/写保护的锁位。写入 ApplicationFlash 内存部分的存储程序内存(Store Program Memory，SPM)指令必须驻留在启动程序部分。
+
+在中断和子例程调用期间，返回地址 Program Counter (PC)存储在堆栈上。堆栈被有效地分配到一般数据 SRAM 中，因此，堆栈大小只受到 SRAM 总体大小和 SRAM 使用量的限制。
+
+所有用户程序都必须在 Reset 例程中初始化堆栈指针(SP)(在执行子例程或中断之前)。SP 是
+在 I/O 空间中可读/写的。数据 SRAM 可以很容易地通过 AVR 架构支持的五种不同寻址模式访问。
+
+输入/输出内存空间包含64个 CPU 外围功能的地址，如控制寄存器、序列周边接口(SPI)和其他输入/输出功能。I/O 内存可以直接访问，或者作为寄存器文件0x20-0x5F 后面的数据空间位置访问。此外，该设备扩展了 SRAM 中0x60-0xFF 的 I/O 空间。
+
+# 中断
+一个灵活的中断模块在 I/O 空间中有它的控制寄存器，在状态寄存器中有一个额外的全局中断启用位。所有的中断都有一个单独的中断向量中断向量。中断根据它们的中断向量位置有优先权。中断向量地址越低优先级越高。
+
+# AVR 状态寄存器
+状态寄存器包含有关最近执行的算术指令的结果的信息。此信息可用于更改程序流以执行条件操作。状态寄存器在所有算术逻辑单元(ALU)操作之后更新。在许多情况下，这将消除使用专用比较指令的需要，从而产生更快、更紧凑的代码。
+
+8个bit位分别代表：
+- bit 7    I : Global Interrupt Enable
+- bit 6   T : Copy Storage
+- bit 5   H : Half Carry Flag
+- bit 4   S : Sign Flag, S = N xor V
+- bit 3   V : Two's Compliment Overflow Flag
+- bit 2   N : Negative Flag
+- bit 1   Z : Zero Flag
+- bit 0   C : Carry Flag
+
+# qemu avr cpu实现
+`cpu.h` 里面定义了上面所介绍到的寄存器，定义使用的是 `uint32_t`：
+```c
+typedef struct CPUArchState {
+    uint32_t pc_w; /* 0x003fffff up to 22 bits */
+    uint32_t sregC; /* 0x00000001 1 bit */
+    uint32_t sregZ; /* 0x00000001 1 bit */
+    uint32_t sregN; /* 0x00000001 1 bit */
+```
+就像使用c语言来实现一个cpu一样，在qemu中，还需要和tcg结合起来。
+
+`cpu.c` 里面实现了设置pc、获取pc等，还定义了几个类型的avr cpu，在`class init`中还初始化了一些`CPUClass`的钩子函数，来看看与tcg相关的:
+```c
+static const struct TCGCPUOps avr_tcg_ops = {
+    .initialize = avr_cpu_tcg_init,
+    .synchronize_from_tb = avr_cpu_synchronize_from_tb,
+    .restore_state_to_opc = avr_restore_state_to_opc,
+    .cpu_exec_interrupt = avr_cpu_exec_interrupt,
+    .tlb_fill = avr_cpu_tlb_fill,
+    .do_interrupt = avr_cpu_do_interrupt,
+};
+```
+
+`avr_cpu_tcg_init` 的实现在 `tranlate.c` 中
+```c
+static TCGv cpu_pc;
+static TCGv cpu_Cf;
+
+#define NUMBER_OF_CPU_REGISTERS 32
+static TCGv cpu_r[NUMBER_OF_CPU_REGISTERS];
+
+void avr_cpu_tcg_init(void)
+{
+    int i;
+#define AVR_REG_OFFS(x) offsetof(CPUAVRState, x)
+    cpu_pc = tcg_global_mem_new_i32(cpu_env, AVR_REG_OFFS(pc_w), "pc");
+    cpu_Cf = tcg_global_mem_new_i32(cpu_env, AVR_REG_OFFS(sregC), "Cf");
+```
+
+
 

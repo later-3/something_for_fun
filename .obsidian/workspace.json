@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.0040512084961
+    "width": 274.0040512084961,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08d979dd82978374",
+  "active": "ec254408c71f455c",
   "lastOpenFiles": [
     "qemu/TCG/AVR/指令解析.md",
     "qemu/TCG/AVR/调试avr.md",
