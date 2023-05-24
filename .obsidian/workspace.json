@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qemu/TCG/AVR/调试avr.md",
+                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.0040512084961,
-    "collapsed": true
+    "width": 290.0004348754883
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/TCG/AVR/调试avr.md",
+                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/TCG/AVR/调试avr.md",
+                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/TCG/AVR/调试avr.md"
+                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md"
               }
             }
           }
@@ -156,12 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08d979dd82978374",
+  "active": "ec254408c71f455c",
   "lastOpenFiles": [
-    "qemu/TCG/AVR/编译.md",
-    "qemu/TCG/AVR/cpu architecture.md",
+    "qemu/nes/6502/cpu info.md",
+    "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
     "qemu/TCG/AVR/指令解析.md",
     "qemu/TCG/AVR/调试avr.md",
+    "qemu/TCG/AVR/cpu architecture.md",
+    "qemu/TCG/QEMU internals/TCG内存访问.md",
+    "qemu/TCG/AVR/编译.md",
+    "qemu/TCG/QEMU internals",
     "qemu/TCG/from no pwn no fun.md",
     "From the Transistor/note/1. 硬件/Project 1.md",
     "qemu/TCG/Documentation_TCG.md",
@@ -181,7 +184,6 @@
     "qemu/nes/chatgpt-answer.md",
     "qemu/TCG",
     "qemu/nes/PPU.md",
-    "qemu/nes/6502/cpu info.md",
     "qemu/nes/litenes/qemu-nes.md",
     "qemu/nes/nesdev.org/Glossary.md",
     "qemu/nes/nesdev.org/nes hardware.md",
@@ -190,9 +192,6 @@
     "nes/litnes",
     "nes/launch.json",
     "nes/island.nes",
-    "nes",
-    "qemu/nes/nesdev.org/file format/INES.md",
-    "qemu/nes/nesdev.org/file format/nes 2.0.md",
-    "qemu/nes/nesdev.org/mapper.md"
+    "qemu/nes/nesdev.org/file format/INES.md"
   ]
 }
