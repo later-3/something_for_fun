@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "facde81a5018dc84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qemu/nes/6502/cpu info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
+                "file": "qemu/nes/6502/cpu info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
+                "file": "qemu/nes/6502/cpu info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md"
+                "file": "qemu/nes/6502/cpu info.md"
               }
             }
           }
@@ -155,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec254408c71f455c",
+  "active": "facde81a5018dc84",
   "lastOpenFiles": [
+    "nes/nes.md",
+    "qemu/nes/machine/machine-device.md",
+    "qemu/nes/machine",
     "qemu/nes/6502/cpu info.md",
     "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
     "qemu/TCG/AVR/指令解析.md",
@@ -169,7 +185,6 @@
     "From the Transistor/note/1. 硬件/Project 1.md",
     "qemu/TCG/Documentation_TCG.md",
     "qemu/TCG/Decodetree Specification.md",
-    "nes/nes.md",
     "qemu/TCG/AVR",
     "From the Transistor/note/1. 硬件/1.6 项目.md",
     "From the Transistor/note/1. 硬件/1.5.md",
@@ -190,8 +205,6 @@
     "qemu/nes/6502",
     "nes/super_mario_bros.nes",
     "nes/litnes",
-    "nes/launch.json",
-    "nes/island.nes",
-    "qemu/nes/nesdev.org/file format/INES.md"
+    "nes/launch.json"
   ]
 }
