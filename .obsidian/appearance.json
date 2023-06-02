@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Mado Miniflow"
+  "cssTheme": "Mado Miniflow",
+  "baseFontSize": 15
 }
