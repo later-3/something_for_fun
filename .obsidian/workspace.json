@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "nes/super mario bros.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14555eb3058125f0",
+        "id": "668658c76bf858b6",
         "type": "tabs",
         "children": [
           {
@@ -54,7 +54,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "14555eb3058125f0",
+        "type": "tabs",
+        "children": [
           {
             "id": "866a8de5640215f7",
             "type": "leaf",
@@ -90,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.0004348754883
+    "width": 275.0004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "nes/super mario bros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md",
+                "file": "nes/super mario bros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/nes/6502/cpu info.md"
+                "file": "nes/super mario bros.md"
               }
             }
           }
@@ -170,10 +177,11 @@
   },
   "active": "facde81a5018dc84",
   "lastOpenFiles": [
+    "qemu/nes/6502/cpu info.md",
     "nes/nes.md",
+    "nes/super mario bros.md",
     "qemu/nes/machine/machine-device.md",
     "qemu/nes/machine",
-    "qemu/nes/6502/cpu info.md",
     "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
     "qemu/TCG/AVR/指令解析.md",
     "qemu/TCG/AVR/调试avr.md",
@@ -201,7 +209,6 @@
     "qemu/nes/PPU.md",
     "qemu/nes/litenes/qemu-nes.md",
     "qemu/nes/nesdev.org/Glossary.md",
-    "qemu/nes/nesdev.org/nes hardware.md",
     "qemu/nes/6502",
     "nes/super_mario_bros.nes",
     "nes/litnes",
