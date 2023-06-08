@@ -3,6 +3,7 @@ https://www.nesdev.org/wiki/CPU_registers
 ### Accumulator
 
 **A** is byte-wide and along with the [arithmetic logic unit](https://en.wikipedia.org/wiki/arithmetic_logic_unit "wikipedia:arithmetic logic unit") (ALU), supports using the status register for carrying, overflow detection, and so on.
+The **Accumulator** (A) is the main register that instructions operate on. Many instructions use it in their inputs or write their result to it. It is also useful as a temporary storage area when moving data from one memory location to another.
 
 ### Indexes
 **X** and **Y** are byte-wide and used for several addressing modes.
@@ -15,6 +16,11 @@ The 2-byte program counter **PC**
 
 ### Status Register
 **P** 
+
+[Programming the NES: The 6502 in detail (middle-engine.com)](https://www.middle-engine.com/blog/posts/2020/06/23/programming-the-nes-the-6502-in-detail)
+
+如上述，一共6个寄存器。
+
 
 # 6502 addressing modes
 13 addressing modes
