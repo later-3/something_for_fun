@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8f69b12e6b57ec44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2362aa2760e800bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nes/decode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.0004348754883
+    "width": 268,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -160,28 +179,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "facde81a5018dc84",
   "lastOpenFiles": [
-    "nes/nes.md",
-    "qemu/nes/6502/cpu info.md",
+    "nes/decode.md",
     "nes/super mario bros.md",
-    "qemu/nes/machine/machine-device.md",
-    "qemu/nes/machine",
+    "qemu/nes/6502/cpu info.md",
+    "nes/nes.md",
+    "qemu/nes/litenes/qemu-nes.md",
+    "qemu/TCG/AVR/cpu architecture.md",
     "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
     "qemu/TCG/AVR/指令解析.md",
     "qemu/TCG/AVR/调试avr.md",
-    "qemu/TCG/AVR/cpu architecture.md",
-    "qemu/TCG/QEMU internals/TCG内存访问.md",
     "qemu/TCG/AVR/编译.md",
+    "qemu/nes/machine/machine-device.md",
+    "qemu/TCG/rx/Untitled.md",
+    "qemu/TCG/rx",
+    "qemu/nes/machine",
+    "qemu/TCG/QEMU internals/TCG内存访问.md",
     "qemu/TCG/QEMU internals",
     "qemu/TCG/from no pwn no fun.md",
     "From the Transistor/note/1. 硬件/Project 1.md",
@@ -200,12 +224,8 @@
     "可执行目标文件的生成/笔记.md",
     "qemu/nes/chatgpt-answer.md",
     "qemu/TCG",
-    "qemu/nes/PPU.md",
-    "qemu/nes/litenes/qemu-nes.md",
-    "qemu/nes/nesdev.org/Glossary.md",
     "qemu/nes/6502",
     "nes/super_mario_bros.nes",
-    "nes/litnes",
-    "nes/launch.json"
+    "nes/litnes"
   ]
 }
