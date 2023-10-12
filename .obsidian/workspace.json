@@ -14,7 +14,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/draw-unit0.2.md"
+                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md"
               },
               "pinned": true
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md",
+                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372,
-    "collapsed": true
+    "width": 311
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md",
+                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md",
+                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md"
+                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md"
               }
             }
           },
@@ -182,7 +181,22 @@
   },
   "active": "587eb2f33acd7801",
   "lastOpenFiles": [
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/draw-unit0.2.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
+    "English Practice/grammer/xiaoyan liu.md",
+    "English Practice/a little English/old friends/season 5/The first episode.md",
+    "English Practice/grammer",
+    "English Practice/a little English/old friends/season 5",
+    "English Practice/a little English/old friends",
+    "English Practice/Is it really that bad to marry cousin?.md",
+    "English Practice/a little English",
+    "English Practice",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.3 Logic Gates.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/uint 1.2 Boolean Function Synthesis.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.1 Boolean Logic.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.3 second part.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.4.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/I HardWare/前言.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0",
@@ -191,11 +205,9 @@
     "nes/randering.md",
     "Pasted image 20230815212905.png",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/I HardWare",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles",
     "nes/nes.md",
     "Excalidraw/Drawing 2023-07-01 20.57.09.excalidraw.md",
     "qemu/nes/litenes/qemu-nes.md",
-    "Excalidraw",
     "nes/super mario bros.md",
     "nes/decode.md",
     "qemu/nes/6502/cpu info.md",
@@ -205,19 +217,6 @@
     "qemu/TCG/AVR/调试avr.md",
     "qemu/TCG/AVR/编译.md",
     "qemu/nes/machine/machine-device.md",
-    "qemu/TCG/rx/Untitled.md",
-    "qemu/TCG/rx",
-    "qemu/nes/machine",
-    "qemu/TCG/QEMU internals/TCG内存访问.md",
-    "qemu/TCG/QEMU internals",
-    "qemu/TCG/from no pwn no fun.md",
-    "From the Transistor/note/1. 硬件/Project 1.md",
-    "qemu/TCG/Documentation_TCG.md",
-    "qemu/TCG/Decodetree Specification.md",
-    "qemu/TCG/AVR",
-    "From the Transistor/note/1. 硬件/1.6 项目.md",
-    "From the Transistor/note/1. 硬件/1.5.md",
-    "From the Transistor/note/1. 硬件/1.7 观点Perspective.md",
-    "qemu/TCG/Documentation-TCG-frontend-ops.md"
+    "qemu/TCG/rx/Untitled.md"
   ]
 }

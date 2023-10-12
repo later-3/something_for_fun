@@ -32,6 +32,31 @@ arithmetic logic unit
 - Inc16
 - ALU
 
-##
+## Week3
+Registers and  memory
+- Bit
+- Register
+- RAM8
+- RAM64
+- RAM512
+- RAM4K
+- RAM16K
+- PC
+
+## Week 4
+- Writing low-level programs
+
+## Week 5
+Computer architecture:
+- Memory
+- CPU
+- Computer
+
+
+## Week 6
+- Developing an assembler
+
+
+
 
 
