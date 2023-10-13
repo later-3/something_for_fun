@@ -41,4 +41,25 @@ b And Not(b)
 # Design: from gate diagram to HDL
 
 # HDL: some comments
+- HDL is a functional/declarative language.
+- It is nothing more than a static description of the gate diagram.
+- The order of HDL statements is insignificant.
+- Before using a chip part, you must know its interface. For example:
+	Not(int= , out=), And(a=, b= , out= )
+- Connections like partName(a=a, ...) and partName(...,out=out) are common
+
+# Hardware description languages
+
+Common HDLs:
+- VHDL
+- Verilog
+- Many more HDLs...
+
+Our HDL
+- Similar in spirit to other HDLs
+- Minimal and simple
+- provides all you need for this course
+- HDL Documentation:
+	- Textbook/Appendix A
+
 

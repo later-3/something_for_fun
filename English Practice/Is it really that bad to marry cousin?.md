@@ -1,29 +1,29 @@
 # 译文
 
 ```txt
-有些事情我们认为是显而易见的事实，但不一定有数据支持。
+1. 有些事情我们认为是显而易见的事实，但不一定有数据支持。
 
-例如，表亲婚姻的想法，用科学术语来说，是恶心的。
+2. 例如，表亲婚姻的想法，用科学术语来说，是恶心的。
 
-首先， 表亲婚姻比你想象的要普遍得多。
+3. 首先， 表亲婚姻比你想象的要普遍得多。
 
-世界上大约 10% 的家庭由二等堂兄弟或更亲近的夫妇领导。
+4. 世界上大约 10% 的家庭由二等堂兄弟或更亲近的夫妇领导。
 
-那是超过7. 5亿人。
+5. 那是超过7. 5亿人。
 
-它现在在欧洲和北美可能已经过时了，但就像箍裙和礼帽一样，
+6. 它现在在欧洲和北美可能已经过时了，但就像箍裙和礼帽一样，
 表亲婚姻过去更为普遍。
 
-像查尔斯·达尔文、埃德加·爱伦·坡和阿尔伯特·爱因斯坦这样的人，
+7. 像查尔斯·达尔文、埃德加·爱伦·坡和阿尔伯特·爱因斯坦这样的人，
 都嫁给了他们的堂兄弟姐妹。
 
-富兰克林·德拉诺·罗斯福总统与他的第五代堂兄埃莉诺·罗斯福结婚。
+8. 富兰克林·德拉诺·罗斯福总统与他的第五代堂兄埃莉诺·罗斯福结婚。
 
-她甚至不必更改姓氏。
+9. 她甚至不必更改姓氏。
 
-一项针对数百万份家谱资料的研究得出的结论是，在 1650 年至 1850 年之间，一般人与其配偶是第四代堂兄妹。
+10. 一项针对数百万份家谱资料的研究得出的结论是，在 1650 年至 1850 年之间，一般人与其配偶是第四代堂兄妹。
 
-我知道我知道， 四表哥是什么鬼？
+11. 我知道我知道， 四表哥是什么鬼？
 
 好吧，这基本上意味着普通人拥有与他们的浪漫伴侣相同的高曾曾祖父母。
 
@@ -72,6 +72,7 @@
 
 # 原文
 
+```txt
 
 There are things we accept as obvious truths that aren't necessarily backed up by data.
 
@@ -87,11 +88,13 @@ And it maybe wildly out of fashion in Europe and North America now, but like hoo
 
 People like Charles Darwin, Edgar Allan Poe and Albert Einstein, all married thier first cousins.
 
-President Franklin Delano Roosevelt married his fifth cousin,Eleanor Roosevelt.
+President Franklin Delano Roosevelt married his fifth cousin, Eleanor Roosevelt.
 
 She didn't even have to change her last name.
 
 One study looking at millions of genealogy profiles concluded that between 1650 and 1850, the average person was fourth cousins with their spouse.
+
+spouse 配偶，和...结婚
 
 I know, I know, what the hell is a fourth cousin?
 
@@ -104,3 +107,49 @@ Well, marrying a cousin meant keeping money and power within the family and main
 It was also about proximity.
 
 If you weren't traveling far in your young life , you're more likely to end up with someone you already know, like  a second cousin.
+
+But even with the onset of the railroad and the industrial revolution, it still took another 50 years for cousin marriage to go out of style in Western society.
+
+Mobility may have played a factor, but researchers also think that greater autonomy for women and smaller family sizes, meaning that there were just fewer cousins to marry, also influenced the change.
+
+Though it became much less popular on both sides of the Atlantic, it was only in the US that it became illegal.
+
+Following the Civil War, the American government took a greater interest in overseeing more elements of daily life, including marriage.
+
+American states began to outlaw not only interracial marriage but cousin marriage as well. 
+
+Today, 32 states either outright ban the practice or restrict it to those who seek genetic counseling, are beyond reproductive age or are sterile.
+
+彻底禁止这种做法 outright ban the practice 
+
+It's estimated that less than one percent of American couples are cousins.
+
+But the widespread illegality, not to mention the social stigma, makes quantifying it quite difficult.
+
+
+stigma 耻辱
+
+If you ask people why cousin marriage seems wrong, health might come up.
+
+The fear of birth defects and genetic disorders has influenced the change in social norms.
+
+norms 标准
+genetic disorders  遗传疾病
+
+But in 2002, researchers from the National Society of Genetic Counselors found that the increased risk was a minor one.
+
+In the general population, the risk that a child will be born with serious complications is three to four percent.
+
+With a first-cousin couple, the risk increased by 1.7 to 2.8 percentage points.
+
+And with those figures, the researches concluded that there was no biological reason to discourage cousins from marring.
+
+Look, I totally get it.
+
+Whether you fancy your cousin or not, depending on where you're from, this can still be a bit of a taboo subject.
+
+But the truth is, our feelings around it are shaped by the culture we live in and not necessarily by whether it's objectively dangerous or not.
+
+After all, if it wasn't for cousin marriage, you probably wouldn't be here.
+
+```

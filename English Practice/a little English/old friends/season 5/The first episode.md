@@ -17,3 +17,9 @@ You spoiled everything! It was like a nightmare!
 我的亲朋好友都在场，以后我怎么见人
 My friends and family are out there! How can I face them?
 
+I saw a wine cellar downstaris.
+我看到楼下有个酒窖
+
+I‘ll meet you there in two minutes.
+
+
