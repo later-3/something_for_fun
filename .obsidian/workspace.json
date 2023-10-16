@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Practice/Is it really that bad to marry cousin?.md",
+                "file": "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311,
-    "collapsed": true
+    "width": 311
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.7 Project 1O overview.md",
+                "file": "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.7 Project 1O overview.md",
+                "file": "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.7 Project 1O overview.md"
+                "file": "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md"
               }
             }
           },
@@ -192,18 +191,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d84ab43d6cf0bf35",
+  "active": "587eb2f33acd7801",
   "lastOpenFiles": [
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.6 Multi-bit Buese.md",
+    "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
+    "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
+    "English Practice/grammer/xiaoyan liu",
+    "English Practice/Is it really that bad to marry cousin?.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.7 Project 1O overview.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.6 Multi-bit Buese.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.5 Hardware Simulation.md",
-    "English Practice/Is it really that bad to marry cousin?.md",
     "English Practice/words/day1.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
     "English Practice/a little English/old friends/season 5/The first episode.md",
     "English Practice/words",
-    "English Practice/grammer/xiaoyan liu.md",
     "English Practice/grammer",
     "English Practice/a little English/old friends/season 5",
     "English Practice/a little English/old friends",
@@ -219,7 +220,6 @@
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/I HardWare/前言.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes",
     "nes/randering.md",
     "Pasted image 20230815212905.png",
     "nes/nes.md",
@@ -229,7 +229,6 @@
     "nes/decode.md",
     "qemu/nes/6502/cpu info.md",
     "qemu/TCG/AVR/cpu architecture.md",
-    "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md",
-    "qemu/TCG/AVR/指令解析.md"
+    "qemu/TCG/AVR/使用 QEMU TCG 框架梳理.md"
   ]
 }
