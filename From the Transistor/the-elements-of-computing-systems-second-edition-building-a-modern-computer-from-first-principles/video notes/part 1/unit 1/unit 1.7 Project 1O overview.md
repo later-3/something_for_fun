@@ -33,4 +33,8 @@ Goal：build the following gates:
 # Example: using mux logic to build a programmable gate
 
 
+# And16
+a16 = a\[0 ... 15\]
+
+
 

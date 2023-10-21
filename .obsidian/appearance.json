@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Mado Miniflow",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "textFontFamily": "JetBrains Mono NL",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "UbuntuMonoDerivativePowerline Nerd Font"
 }
