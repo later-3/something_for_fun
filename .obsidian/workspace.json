@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
+                "file": "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
+    "width": 344,
     "collapsed": true
   },
   "right": {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
+                "file": "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
+                "file": "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md"
+                "file": "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md"
               }
             }
           },
@@ -182,15 +182,16 @@
   },
   "active": "587eb2f33acd7801",
   "lastOpenFiles": [
-    "English Practice/grammer/xiaoyan liu/7. 名词性从句.md",
-    "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
-    "English Practice/grammer/xiaoyan liu/10. 句子所有成分大总结.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize/week 1.md",
+    "English Practice/grammer/xiaoyan liu/4. 句子的成分：宾语 表语.md",
     "English Practice/grammer/xiaoyan liu/3. 句子的成分-主语.md",
+    "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
+    "English Practice/grammer/xiaoyan liu/10. 副词形容词状语从句.md",
+    "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
+    "English Practice/grammer/xiaoyan liu/7. 名词性从句.md",
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize/week 1.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md",
     "English Practice/grammer/xiaoyan liu/6. 并列句.md",
     "English Practice/grammer/xiaoyan liu/5. 长难句分析.md",
-    "English Practice/grammer/xiaoyan liu/4. 句子的成分：宾语 表语.md",
     "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
     "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
     "English Practice/words/印欧语音变规律.md",
@@ -226,7 +227,6 @@
     "English Practice/a little English",
     "English Practice",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.4.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/I HardWare/前言.md"
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.4.md"
   ]
 }
