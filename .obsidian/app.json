@@ -3,5 +3,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "png"
 }
