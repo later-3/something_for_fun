@@ -13,9 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.2 ALU.md",
+                "file": "English Practice/grammer/Nick/20.介词.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9f95a78309fb294b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English Practice/words/印欧语音变规律.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0028732155bf9f96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -78,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
+    "width": 328,
     "collapsed": true
   },
   "right": {
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.2 ALU.md",
+                "file": "English Practice/grammer/Nick/20.介词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.2 ALU.md",
+                "file": "English Practice/grammer/Nick/20.介词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.2 ALU.md"
+                "file": "English Practice/grammer/Nick/20.介词.md"
               }
             }
           },
@@ -167,12 +191,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec254408c71f455c",
+  "active": "ce05a3095ba5a7c9",
   "lastOpenFiles": [
+    "English Practice/grammer/Nick/19.副词.md",
+    "English Practice/grammer/Nick/20.介词.md",
     "English Practice/grammer/xiaoyan liu/10. 副词形容词状语从句.md",
+    "English Practice/grammer/xiaoyan liu/4. 句子的成分：宾语 表语.md",
+    "English Practice/grammer/Nick/18.一般过去时态.md",
+    "English Practice/grammer/Nick/17.一般现在时态.md",
+    "leetcode/labuladong/数组.md",
+    "leetcode/labuladong",
+    "leetcode",
+    "English Practice/grammer/Nick/16.冠词.md",
+    "English Practice/grammer/Nick/15.动词.md",
+    "English Practice/grammer/xiaoyan liu/3. 句子的成分-主语.md",
+    "English Practice/grammer/Nick/14.形容词.md",
+    "English Practice/grammer/Nick",
+    "English Practice/grammer/Nick/13. 代词.md",
     "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
+    "English Practice/grammer/xiaoyan liu/7. 名词性从句.md",
+    "English Practice/grammer/xiaoyan liu/6. 并列句.md",
+    "English Practice/grammer/xiaoyan liu/5. 长难句分析.md",
     "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
+    "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
+    "English Practice/sentence/liu.md",
+    "English Practice/words/印欧语音变规律.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.2 ALU.md",
+    "English Practice/sentence",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.1 binary numbers.md",
     "png/Pasted image 20231030182159.png",
@@ -184,36 +229,15 @@
     "png",
     "png/Pasted image 20231027073105.png",
     "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
-    "English Practice/grammer/xiaoyan liu/4. 句子的成分：宾语 表语.md",
-    "English Practice/grammer/xiaoyan liu/3. 句子的成分-主语.md",
-    "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
-    "English Practice/grammer/xiaoyan liu/7. 名词性从句.md",
-    "English Practice/grammer/xiaoyan liu/6. 并列句.md",
-    "English Practice/grammer/xiaoyan liu/5. 长难句分析.md",
-    "English Practice/words/印欧语音变规律.md",
     "png/Pasted image 20231020195415.png",
     "png/Pasted image 20231020195344.png",
     "png/Pasted image 20231020195332.png",
     "png/Pasted image 20231020195244.png",
     "png/Pasted image 20231020195104.png",
     "png/Pasted image 20231020195041.png",
-    "English Practice/words/day1.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/uint 1.2 Boolean Function Synthesis.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.3 second part.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 0/unit 0.2 from nand to hack.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.7 Project 1O overview.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.6 Multi-bit Buese.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.5 Hardware Simulation.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.4 Hardware Description Language.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.3 Logic Gates.md",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 1/unit 1.1 Boolean Logic.md",
     "English Practice/grammer/xiaoyan liu",
-    "English Practice/words",
-    "English Practice/grammer",
-    "English Practice/a little English/old friends/season 5",
-    "English Practice/a little English/old friends",
-    "English Practice/a little English"
+    "English Practice/words"
   ]
 }
