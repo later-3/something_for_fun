@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Practice/grammer/Nick/20.介词.md",
+                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,16 +31,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "0028732155bf9f96",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
             }
           }
         ]
@@ -102,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Practice/grammer/Nick/20.介词.md",
+                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Practice/grammer/Nick/20.介词.md",
+                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Practice/grammer/Nick/20.介词.md"
+                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md"
               }
             }
           },
@@ -181,20 +171,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ce05a3095ba5a7c9",
   "lastOpenFiles": [
-    "English Practice/grammer/Nick/19.副词.md",
     "English Practice/grammer/Nick/20.介词.md",
+    "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+    "English Practice/Reading/Nick/精度入门.md",
+    "English Practice/Reading/Nick/书虫",
+    "English Practice/Reading/Nick",
+    "English Practice/Reading",
+    "English Practice/grammer/Nick/19.副词.md",
     "English Practice/grammer/xiaoyan liu/10. 副词形容词状语从句.md",
     "English Practice/grammer/xiaoyan liu/4. 句子的成分：宾语 表语.md",
     "English Practice/grammer/Nick/18.一般过去时态.md",
@@ -222,22 +216,17 @@
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.1 binary numbers.md",
     "png/Pasted image 20231030182159.png",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize/week 1.md",
-    "English Practice/grammer/xiaoyan liu/12. 时态.md",
     "png/Pasted image 20231028081258.png",
     "png/Pasted image 20231020190051.png",
     "Operating Systems - Three Easy Pieces.pdf",
     "png",
     "png/Pasted image 20231027073105.png",
-    "English Practice/grammer/xiaoyan liu/11. 句子所有成分大总结.md",
     "png/Pasted image 20231020195415.png",
     "png/Pasted image 20231020195344.png",
     "png/Pasted image 20231020195332.png",
     "png/Pasted image 20231020195244.png",
     "png/Pasted image 20231020195104.png",
     "png/Pasted image 20231020195041.png",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2",
-    "English Practice/grammer/xiaoyan liu",
-    "English Practice/words"
+    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize"
   ]
 }
