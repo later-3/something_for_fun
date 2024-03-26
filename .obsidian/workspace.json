@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "dd2e9abe71daf85e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "9f95a78309fb294b",
             "type": "leaf",
             "pinned": true,
@@ -70,14 +80,6 @@
             }
           },
           {
-            "id": "dd33b90633788e18",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "ec254408c71f455c",
             "type": "leaf",
             "state": {
@@ -86,14 +88,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "dd33b90633788e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 347
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -166,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +190,10 @@
   },
   "active": "ce05a3095ba5a7c9",
   "lastOpenFiles": [
-    "English Practice/grammer/Nick/20.介词.md",
+    "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
+    "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
     "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+    "English Practice/grammer/Nick/20.介词.md",
     "English Practice/Reading/Nick/精度入门.md",
     "English Practice/Reading/Nick/书虫",
     "English Practice/Reading/Nick",
@@ -202,11 +212,9 @@
     "English Practice/grammer/Nick/14.形容词.md",
     "English Practice/grammer/Nick",
     "English Practice/grammer/Nick/13. 代词.md",
-    "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
     "English Practice/grammer/xiaoyan liu/7. 名词性从句.md",
     "English Practice/grammer/xiaoyan liu/6. 并列句.md",
     "English Practice/grammer/xiaoyan liu/5. 长难句分析.md",
-    "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
     "English Practice/grammer/xiaoyan liu/8. 定语和定语从句.md",
     "English Practice/sentence/liu.md",
     "English Practice/words/印欧语音变规律.md",
