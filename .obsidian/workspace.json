@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+                "file": "qemu/nes/QEMU-NES.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 347,
+    "collapsed": true
   },
   "right": {
     "id": "9a8e85d13f9e6de9",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+                "file": "qemu/nes/QEMU-NES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+                "file": "qemu/nes/QEMU-NES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Practice/Reading/Nick/书虫/爱情与金钱.md"
+                "file": "qemu/nes/QEMU-NES.md"
               }
             }
           },
@@ -190,9 +191,10 @@
   },
   "active": "ce05a3095ba5a7c9",
   "lastOpenFiles": [
+    "English Practice/Reading/Nick/书虫/爱情与金钱.md",
+    "qemu/nes/QEMU-NES.md",
     "English Practice/grammer/xiaoyan liu/1. 英语句子的基本结构.md",
     "English Practice/grammer/xiaoyan liu/2. 句子的成分-谓语.md",
-    "English Practice/Reading/Nick/书虫/爱情与金钱.md",
     "English Practice/grammer/Nick/20.介词.md",
     "English Practice/Reading/Nick/精度入门.md",
     "English Practice/Reading/Nick/书虫",
@@ -223,7 +225,6 @@
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/draw-unit.md",
     "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/video notes/part 1/unit 2/unit 2.1 binary numbers.md",
     "png/Pasted image 20231030182159.png",
-    "From the Transistor/the-elements-of-computing-systems-second-edition-building-a-modern-computer-from-first-principles/part 1 summarize/week 1.md",
     "png/Pasted image 20231028081258.png",
     "png/Pasted image 20231020190051.png",
     "Operating Systems - Three Easy Pieces.pdf",
