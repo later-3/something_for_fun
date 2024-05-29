@@ -17,6 +17,11 @@
 ##### division
 
 #### 2.2 Binary Numbers
+##### lc-3: 2.1 Bits and Data Types
+###### lc-3: 2.1.1 The Bit as the Unit of information
+###### lc-3: 2.1.2 Data Types
+##### Integer Data Types
+###### lc-3 2.2 Integer Data Types
 
 #### 2.3 Binary Addition
 
